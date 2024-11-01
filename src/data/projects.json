@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Express Music Server",
+      "imageSrc": "projects/project.png",
+      "description": "Engineered a dynamic Express.js-based web application interfacing with the iTunes API for music search",
+      "skills": ["JavaScript", "Html", "CSS", "JSON","AJAX"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Moalzaaour/Music-server"
+    },
+    {
+      "title": "Chat AI bot",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a local AI chatbot implementing dynamic response generation based on real-time conversation context using a Python-based command-line interface",
+      "skills": ["Ollama", "Python", "Linux", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Moalzaaour/Ollama-Chatbot"
+    },
+    {
+      "title": "HunterGhost Simulator",
+      "imageSrc": "projects/project.png",
+      "description": "Engineered a multi-threaded C program simulating ghost hunts within a dynamically linked room system, showcasing proficiency in thread management, linked lists, and inter-process communication",
+      "skills": ["C", "VirtualBox", "Linux", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Moalzaaour/HunterGhost-sim"
+    }
+  ]

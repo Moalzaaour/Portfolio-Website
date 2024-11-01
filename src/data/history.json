@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Barista",
+    "organisation": "Bridgehead",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Provided customer service in a fast-paced café environment, maintaining high satisfaction ratings from customers", "Managed inventory and restocked supplies, ensuring the café was well-equipped to serve a high volume of customers daily", "Collaborated with team members to manage time efficiently, reducing customer wait times and improving service speed."],
+    "imageSrc": "history/BH.png"
+  },
+
+  {
+    "role": "Teaching Assistance",
+    "organisation": "Carleton University",
+    "startDate": "Sept 2023",
+    "endDate": "Dec 2023",
+    "experiences": ["Provided support during lab sessions, answer questions, and clarify concepts", "Offered additional help and guidance outside class hours for students needing extra support.", "Evaluated homework, quizzes, and projects based on given rubrics"],
+    "imageSrc": "history/TA.png"
+  }
+]
+
+  

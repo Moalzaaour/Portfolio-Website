@@ -1,0 +1,18 @@
+:root {
+    --color-text-dark: #3D52A0; /* Dark blue for text on light backgrounds */
+    --color-text-light: #FFFFFF; /* White text for dark backgrounds */
+    --color-primary: #7091E6;    /* Light blue */
+    --color-secondary: #8697C4;  /* Secondary blue */
+    --color-accent: #ADBBDA;     /* Accent color */
+    --color-dark: #3D52A0;       /* Dark blue */
+    --color-bg: #EDE8F5;         /* Lightest blue */
+
+    /* RGB components for opacity control */
+    --color-dark-rgb: 61, 82, 160;        /* #3D52A0 */
+    --color-primary-rgb: 112, 145, 230;   /* #7091E6 */
+    --color-secondary-rgb: 134, 151, 196; /* #8697C4 */
+    --color-accent-rgb: 173, 187, 218;    /* #ADBBDA */
+    --color-bg-rgb: 237, 232, 245;        /* #EDE8F5 */
+
+    --font-roboto: "Roboto";
+}

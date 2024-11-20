@@ -13,7 +13,19 @@ export const Hero = () => {
                 <p className={styles.description}>
                     Available to work for 4 to 8 months
                 </p>
-                <a href="mailto:moalzaaour@cmail.carleton.ca" className={styles.contactBtn}>Contact Me!</a>
+                <div className={styles.buttonGroup}>
+                    <a 
+                        href="mailto:moalzaaour@cmail.carleton.ca" 
+                        className={styles.contactBtn}>
+                        Contact Me!
+                    </a>
+                    <a 
+                        href={getImageUrl("hero/Resume.pdf")} 
+                        className={styles.downloadBtn} 
+                        download="Mohammad_Alzaaour_Resume.pdf">
+                        Download Resume
+                    </a>
+                </div>
             </div>
             <img src={getImageUrl("hero/heroImage.png")} alt="Picture of me" className={styles.heroImg}/>
                 <div className={StyleSheet.topBlur} />

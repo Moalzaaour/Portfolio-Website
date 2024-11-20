@@ -41,7 +41,14 @@
     margin-bottom: 52px;
 }
 
-.contactBtn {
+.buttonGroup {
+  display: flex; /* Makes buttons align in a row */
+  gap: 20px; /* Adds space between buttons */
+  justify-content: center; /* Optional: Centers the buttons horizontally */
+  align-items: center; /* Optional: Aligns buttons vertically */
+}
+
+.contactBtn, .downloadBtn {
   text-decoration: none;
   background-color: var(--color-primary);
   color: var(--color-text-light);
@@ -51,7 +58,6 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
-
 
 
 .heroImg {
